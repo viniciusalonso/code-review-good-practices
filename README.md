@@ -1,6 +1,10 @@
 # Code review good practices
 This repository was created to gets together many good practices around code review.
 
+## Posts
+
+[There’s a human on the other side of your code review by Tadas Antanavicius](https://medium.com/@real_tadas/theres-a-human-on-the-other-side-of-your-code-review-9732cc15bfee)
+
 ## Talks
 [Implementing a Strong Code-Review Culture by Derek Prior](https://www.youtube.com/watch?v=PJjmw9TRB7s&index=2&list=LLd_50AreJiQvwohSFlvH99w)
 
