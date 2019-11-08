@@ -1,6 +1,9 @@
 # Code review good practices
 This repository was created to gets together many good practices around code review.
 
+## Guides
+[Google's Engineering Practices documentation](https://google.github.io/eng-practices/)
+
 ## Papers
 [Expectations, outcomes, and challenges of modern code review by Alberto Bacchelli and Christian Bird](https://dl.acm.org/citation.cfm?id=2486882)
 
